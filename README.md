@@ -1,3 +1,3 @@
 # The educational project
-Card memory game
+Memory card Game
 
