@@ -1,3 +1,2 @@
-# The educational project
-Memory card Game
-
+# Memory card Game
+https://anemoiaa.github.io/memory-card-game/
